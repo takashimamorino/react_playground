@@ -1,5 +1,7 @@
 import React from 'react'
 
-const Home = () => <div>Hello, World</div>;
+import AsyncHooks from '../components/AsyncHooks'
+
+const Home = () => <AsyncHooks />;
 
 export default Home
